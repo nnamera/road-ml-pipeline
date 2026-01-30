@@ -30,7 +30,7 @@ class TestModelRegistry:
             parameters={"lr": 0.01},
         )
 
-        assert version.name == "test-model"
+        assert version.model_name == "test-model"
         assert version.version == "1"
         assert version.stage == ModelStage.NONE
         assert version.metrics["accuracy"] == 0.95
@@ -93,7 +93,7 @@ class TestModelRegistry:
         registry.register(name="test-model", model=Mock())
 
         latest = registry.get_latest_version("test-model")
-        assert latest == "3"
+        assert latest.version == "3"
 
 
 class TestModelVersion:
@@ -102,13 +102,13 @@ class TestModelVersion:
     def test_version_creation(self):
         """Test version creation."""
         version = ModelVersion(
-            name="test",
+            model_name="test",
             version="1",
             stage=ModelStage.STAGING,
             metrics={"f1": 0.9},
         )
 
-        assert version.name == "test"
+        assert version.model_name == "test"
         assert version.version == "1"
         assert version.stage == ModelStage.STAGING
         assert version.metrics["f1"] == 0.9
@@ -116,7 +116,7 @@ class TestModelVersion:
     def test_version_tags(self):
         """Test version tags."""
         version = ModelVersion(
-            name="test",
+            model_name="test",
             version="1",
             tags={"team": "ml", "type": "classifier"},
         )
