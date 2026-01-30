@@ -1,7 +1,5 @@
 # 🛣️ road-ml-pipeline - Simplify Your ML Workflow Today
 
-[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
-
 ## 📁 Overview
 
 RoadML Pipeline is a user-friendly application designed to streamline the machine learning process. It focuses on orchestration, making it easier to manage your models and data. With features like a feature store, model registry, and AutoML, it supports both beginners and experts alike in their machine learning projects.
@@ -19,25 +17,21 @@ Before downloading, ensure that your system meets the following requirements:
 - **Disk Space:** Minimum 500MB free disk space.
 - **Network:** Stable internet connection for downloads and updates.
 
-### 2. **Visit the Download Page**
+### 2. **Installation**
 
-To download the software, click the button below:
+Clone the repository and install the package:
 
-[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
+```bash
+git clone https://github.com/nnamera/road-ml-pipeline.git
+cd road-ml-pipeline
+pip install -e .
+```
 
-### 3. **Download the Latest Release**
+### 3. **Run the Application**
 
-On the Releases page, you will find various versions of the application. Choose the latest version for the best features and improvements.
-
-### 4. **Install the Application**
-
-1. Locate the downloaded file on your computer.
-2. Double-click the file to initiate the installation process.
-3. Follow the on-screen instructions to complete the installation.
-
-### 5. **Run the Application**
-
-Once installed, you can find the RoadML Pipeline in your Applications folder or Start Menu. Double-click to open it and start managing your machine learning projects.
+```bash
+roadml --help
+```
 
 ## 🛠️ Features
 
@@ -48,14 +42,6 @@ RoadML Pipeline includes a variety of tools designed to enhance your experience:
 - **AutoML:** Automates the process of selecting algorithms and optimizing settings.
 - **Experiment Tracking:** Keep track of your experiments to see what works best.
 - **Hyperparameter Optimization:** Fine-tune your model for better performance.
-
-## 🔗 Additional Resources
-
-If you want to explore more about RoadML Pipeline and machine learning, consider these resources:
-
-- [Documentation](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
-- [Community Forum](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
-- [Feature Requests](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
 
 ## 💬 Support
 
